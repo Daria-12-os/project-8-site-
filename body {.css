@@ -178,34 +178,34 @@ div#bg-1-5 {
   top: 1200px;
   left: -200px;
 }
-anim-1 {
+.anim-1 {
   animation: anim-1 5s infinite;
 }
 @keyframes anim-1 {
   0% {
-    transform: translateY(-80);
+    transform: translateY(-80px);
   }
   100% {
     transform: translateY(410vh);
   }
 }
-anim-2 {
+.anim-2 {
   animation: anim-2 5s infinite;
 }
 @keyframes anim-2 {
   0% {
-    transform: translateY(-80);
+    transform: translateY(-80px);
   }
   100% {
     transform: translateY(410vh);
   }
 }
-anim-3 {
+.anim-3 {
   animation: anim-3 5s infinite;
 }
 @keyframes anim-3 {
   0% {
-    transform: translateY(-80);
+    transform: translateY(-80px);
   }
   100% {
     transform: translateY(410vh);
